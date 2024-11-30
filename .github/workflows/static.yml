@@ -4,7 +4,7 @@ name: Deploy static content to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["Hero-Section-Components/NhloniphoMasukuHeroSectionComponent"]
+    branches: ["nhlonipho-masuku-hero-section-component/Hero-Section-Components/NhloniphoMasukuHeroSectionComponent"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
